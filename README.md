@@ -27,7 +27,7 @@ PROSPER.MOD.XZS.UNITNAME,1000,psig
 
 # The Address
 
-The DLL Address is : YourCOMDLL.MyCOMClass
+The DLL Address is : COMDLLExample.MyCOMClass
 
 C:\Windows\Microsoft.NET\FrameworkArm64\v4.0.30319
 
